@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seaBattle_v2", "seaBattle_v2\seaBattle_v2\seaBattle_v2.csproj", "{77D1B70B-FA61-468D-B737-67392047331A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seaBattle_v2Content", "seaBattle_v2\seaBattle_v2Content\seaBattle_v2Content.contentproj", "{A7FD1D00-731E-4B5B-B3E7-900F4AF6D0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D1B70B-FA61-468D-B737-67392047331A}.Debug|x86.ActiveCfg = Debug|x86
+		{77D1B70B-FA61-468D-B737-67392047331A}.Debug|x86.Build.0 = Debug|x86
+		{77D1B70B-FA61-468D-B737-67392047331A}.Release|x86.ActiveCfg = Release|x86
+		{77D1B70B-FA61-468D-B737-67392047331A}.Release|x86.Build.0 = Release|x86
+		{A7FD1D00-731E-4B5B-B3E7-900F4AF6D0C2}.Debug|x86.ActiveCfg = Debug|x86
+		{A7FD1D00-731E-4B5B-B3E7-900F4AF6D0C2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {103D834F-30CA-4050-9DFD-FE9C0D4CF20A}
+	EndGlobalSection
+EndGlobal

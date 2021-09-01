@@ -1,0 +1,2 @@
+C:\Users\bytestep\source\repos\seaBattle_v2\seaBattle_v2\seaBattle_v2Content\obj\x86\Debug\seaBattle_v2Content.contentprojResolveAssemblyReference.cache
+C:\Users\bytestep\source\repos\seaBattle_v2\seaBattle_v2\seaBattle_v2Content\obj\x86\Debug\seaBattle_v2Content.contentproj.CoreCompileInputs.cache
